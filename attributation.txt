@@ -1,0 +1,17 @@
+Background Image:
+https://pixabay.com/en/salad-background-food-tasty-olives-2068220/
+
+Application Icon:
+http://www.canstockphoto.co.uk/animal-emotion-avatar-vector-icon-39828268.html
+
+REACT_APP_APIKEY=YI32M34KYUJ43JNICK7GNQY3RSGJEIP1RC
+REACT_APP_CONTRACTADDRESS=0x57d90b64a1a57749b0f932f1a3395792e12e7055
+REACT_APP_ADDRESS=0xB6De4Ad74d82206e58260787a0833323b2976c52
+await axios.get(`https://api-ropsten.etherscan.io/api?module=account&action=tokentx&contractaddress`+contractaddress+`&address=`+address+`&page=1&offset=100&startblock=0&endblock=27025780&sort=asc&apikey=`+apikey+``).then((d:any)=>{    
+
+
+"X-CMC_PRO_API_KEY": "74b45c73-d6a3-4807-9b51-203d974ad3cb",
+`https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest?symbol=HNT`,
+
+
+Contract : 0x64Bd0afbd86Ac88f276960B5df1C80b1cb9726Fc(HangryHippo)
